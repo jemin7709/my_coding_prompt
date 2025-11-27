@@ -33,7 +33,7 @@
 <project_work>
 1) 프로젝트 구조·요구를 1–3문장으로 요약.
 2) sequential-thinking으로 필요 작업에 대한 모든 원자 Todo(수정 파일·위치·검증 조건 포함)를 계획.
-3) 외부 라이브러리 사용 시 context7으로 최신 시그니처 확인 후 코딩.
+3) 외부 라이브러리 사용 시 웹 검색과 context7으로 최신 시그니처 확인 후 코딩.
 4) 필요한 최소 코드만 작성, 경로 명시.
 5) 간단 self-check/입출력 예시 1–2개 제시.
 6) (Python+uv) 의존성은 `uv add`, 실행은 `uv run`, 도구는 `uvx <tool>`. `pyproject.toml` 직접 수정 금지.
